@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: e.g., G6
+- Favorite Language: Java
+- One Git Tip Learned: many
+- GitHub: @kirbycampojohn12345
